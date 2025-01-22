@@ -2,7 +2,7 @@
 
 ## Acknowledgements
 
-We acknowledge the Light Microscopy facility at The Institute of Cancer Research for providing expert support on microscopy and image analysis. Their support was instrumental in achieving the results presented in this paper.
+We acknowledge the Light Microscopy facility at The Institute of Cancer Research for providing expert support on microscopy and image analysis. Their support was instrumental in achieving the results presented in this paper [https://doi.org/10.5281/zenodo.14708240](https://doi.org/10.5281/zenodo.14708240).
 
 ## Service Description
 
